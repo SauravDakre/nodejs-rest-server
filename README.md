@@ -2,3 +2,6 @@
 
 ### start server
 `yarn server`
+
+### lint
+`yarn lint`
